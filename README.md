@@ -1,14 +1,15 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# Logo Principal
+
 
 <p align="center">
-  <img src="https://github.com/JTatianaAriza/Images/assets/147046298/8605f381-f648-4cc5-acd8-852a0212a55f" alt="Imagen de Inicio" style="width:200px;">
+  <img src="https://github.com/JTatianaAriza/Images/assets/147046298/8605f381-f648-4cc5-acd8-852a0212a55f" alt="Logo de BlastSweeper" width="250">
 </p>
+<h1 align="center"><span style="font-size:108px;">🎮💣 BlastSweeper</span></h1>
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Pantalla de Inicio (Menú Principal):
+
 
 Esta pantalla aparece al abrir el juego.
 Contiene opciones de inicio de sesión y registro.
