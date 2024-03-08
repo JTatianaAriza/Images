@@ -1,7 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-#Logo de Aplicacion
+# Logo Principal
 
 <p align="center">
   <img src="https://github.com/JTatianaAriza/Images/assets/147046298/8605f381-f648-4cc5-acd8-852a0212a55f" alt="Imagen de Inicio" style="width:200px;">
@@ -9,7 +8,7 @@
 
 
 
-#Pantalla de Inicio (Menú Principal):
+# Pantalla de Inicio (Menú Principal):
 
 Esta pantalla aparece al abrir el juego.
 Contiene opciones de inicio de sesión y registro.
@@ -19,13 +18,13 @@ Contiene opciones de inicio de sesión y registro.
 
 
 
-#Pantalla de Inicio de sesión:
+# Pantalla de Inicio de sesión:
 
 <p align="center">
   <img src="https://github.com/JTatianaAriza/Images/assets/147046298/c2bb642b-5e01-4724-8c0c-29eccbcbd828" alt="Imagen de Inicio" style="width:200px;">
 </p>
 
-#Pantalla de Explorar:
+# Pantalla de Explorar:
 Esta pantalla aparece al abrir el juego, contiene la muestra de estadisticas, opción multijugador, mejores puntajes de los usuarios según el nivel de juego y botón para iniciar el juego.
 
 <p align="center">
@@ -34,7 +33,7 @@ Esta pantalla aparece al abrir el juego, contiene la muestra de estadisticas, op
 
 
 
-#Tablero de Juego:
+# Tablero de Juego:
 
 
 La pantalla principal del juego muestra el tablero de celdas.
@@ -71,7 +70,7 @@ Botón Reiniciar: Permite comenzar un nuevo juego.
 </p>
 
 
-#Pantalla de  Derrota y Victoria:
+# Pantalla de  Derrota y Victoria:
 Cuando el jugador completa el juego (destapa todas las celdas seguras) o activa una mina, se muestra una pantalla de victoria o derrota.
 
 <p align="center">
